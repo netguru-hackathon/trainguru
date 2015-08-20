@@ -2,6 +2,7 @@ Trainguru
 ================
 
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+[![Codeship Status for netguru-hackathon/trainguru](https://codeship.com/projects/3b6732e0-297c-0133-2035-7a9d98c5aaa6/status?branch=master)](https://codeship.com/projects/98013)
 
 This application was generated with the [rails_apps_composer](https://github.com/RailsApps/rails_apps_composer) gem
 provided by the [RailsApps Project](http://railsapps.github.io/).

@@ -14,6 +14,7 @@ gem 'high_voltage'
 gem 'pg'
 gem 'simple_form'
 gem 'config'
+gem 'pdf-reader'
 
 group :development do
   gem 'better_errors'

@@ -15,6 +15,7 @@ gem 'pg'
 gem 'simple_form'
 gem 'config'
 gem 'pdf-reader'
+gem 'cloudinary'
 
 group :development do
   gem 'better_errors'

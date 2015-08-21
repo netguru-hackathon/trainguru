@@ -16,6 +16,7 @@ gem 'simple_form'
 gem 'config'
 gem 'pdf-reader'
 gem 'cloudinary'
+gem 'devise'
 
 group :development do
   gem 'better_errors'

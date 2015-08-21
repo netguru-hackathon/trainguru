@@ -1,0 +1,21 @@
+%p#notice= notice
+
+%p
+  %b Number:
+  = @train.number
+%p
+  %b City from:
+  = @train.city_from
+%p
+  %b City to:
+  = @train.city_to
+%p
+  %b Time from:
+  = @train.time_from
+%p
+  %b Time to:
+  = @train.time_to
+
+= link_to 'Edit', edit_train_path(@train)
+\|
+= link_to 'Back', trains_path

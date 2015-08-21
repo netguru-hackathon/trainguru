@@ -1,0 +1,12 @@
+= simple_form_for(@train) do |f|
+  = f.error_notification
+
+  .form-inputs
+    = f.input :number
+    = f.input :city_from
+    = f.input :city_to
+    = f.input :time_from
+    = f.input :time_to
+
+  .form-actions
+    = f.button :submit

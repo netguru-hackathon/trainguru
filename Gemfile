@@ -17,6 +17,7 @@ gem 'config'
 gem 'pdf-reader'
 gem 'cloudinary'
 gem 'devise'
+gem 'rolify'
 
 group :development do
   gem 'better_errors'
